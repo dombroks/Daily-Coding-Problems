@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Google_Problems_02.ipynb
+"""Google_Problems_02
 
 
 This problem was asked by Google.
