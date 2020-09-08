@@ -11,7 +11,7 @@ You can assume that the messages are decodable. For example, '001' is not allowe
 
 
 public class Facebook_Problems_00 {
-    public static int productArray(String message) {
+    public static int getNumberOfWaysToBeDecoded(String message) {
         int counter = 1 ;
         for (int i = 0; i<message.length()-1;i ++ ){
             int firstNumber =Integer.parseInt(String.valueOf(message.charAt(i))) ;
@@ -28,7 +28,7 @@ public class Facebook_Problems_00 {
 
     public static void main(String[] args) {
 
-        System.out.println(productArray("111"));
+        System.out.println(getNumberOfWaysToBeDecoded("111"));
 
     }
 }
