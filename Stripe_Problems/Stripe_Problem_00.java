@@ -13,7 +13,7 @@ You can modify the input array in-place.
 
 
 public class Problem_00 {
-    public static int lowestPositiveInteger(int[] array) {
+    public static int getMissingPositiveInteger(int[] array) {
         int magicNumber = 1;
         while (checkExist(array, magicNumber)) {
             magicNumber++;
@@ -33,7 +33,7 @@ public class Problem_00 {
 
     public static void main(String[] args) {
         int[] array = {1, 2, 0};
-        System.out.println(lowestPositiveInteger(array));
+        System.out.println(getMissingPositiveInteger(array));
 
     }
 }
