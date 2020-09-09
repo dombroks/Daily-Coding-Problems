@@ -16,6 +16,8 @@ For example, the following tree has 5 unival subtrees:
    1   0
   / \
  1   1
+ 
+ Note : This solution is provided by Daily-Coding-Problem website , you just need to search about the problem.
 """
 
 # node structure.
