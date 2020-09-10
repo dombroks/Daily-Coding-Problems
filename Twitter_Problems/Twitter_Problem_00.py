@@ -80,9 +80,9 @@ if __name__ == "__main__" :
   t.makeTrie(keys) 
   
 
-  comp = t.printAutoSuggestions(key) 
+  msg = t.printAutoSuggestions(key) 
   
-  if comp == -1: 
+  if msg == -1: 
       print("No other strings found with this prefix\n") 
-  elif comp == 0: 
+  elif msg == 0: 
       print("No string found with this prefix\n")
