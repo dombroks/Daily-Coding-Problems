@@ -10,6 +10,10 @@ This repository will contains serie of problems and their solutions from this bi
 
 You can clone the repo, you will find the problem and the solution for practicing.
 
+## Contributing
+
+Feel free to optimize my codes by making a pull request.
+
 
 
 
