@@ -1,6 +1,6 @@
 # Daily Coding Problems
 
-This repository contains serie of problems and their solutions from this biggest tech companies like Google, Facebook, Apple ...etc
+Hi there, this repository contains serie of problems and their solutions from this biggest tech companies like Google, Facebook, Apple and twitter...etc
 
 
 ![](https://github.com/dombroks/Daily-Coding-Problem/blob/master/tech-companies.jpg)
