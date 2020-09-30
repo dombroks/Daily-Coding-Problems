@@ -9,7 +9,6 @@ Follow-up: Can you do this in O(N) time and constant space?
  */
 
 
-
 import java.util.Arrays;
 import java.util.List;
 
@@ -30,6 +29,7 @@ public class Airbnb_Problem_00 {
     }
     public static void main(String[] args) {
         List<Integer> data = Arrays.asList(2, 4, 6, 2, 5);
+        
         System.out.println(largestSum(data));
 
     }
