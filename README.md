@@ -11,6 +11,7 @@ Hi there, this repository contains serie of problems and their solutions from  b
 
 Once you clone or donwload the repository, you will find coding problems from interviews provided by big companies.
 
+Number of problems till now : 27 Problem(98 % of them are solved ).
 
 ## Contributing
 
