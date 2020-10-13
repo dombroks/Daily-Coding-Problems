@@ -30,6 +30,6 @@ def get_closest_palindrome(word):
     
     return palindrome_one if palindrome_one < palindrome_two else palindrome_two
     
-# Driver code
+
 assert get_closest_palindrome("google") == "elgoogle"
 assert get_closest_palindrome("race") == "ecarace"
