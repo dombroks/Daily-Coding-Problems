@@ -61,7 +61,7 @@ def is_parent_locked(node):
 
     
 
-
+# Driver code
 if __name__ == "__main__" :
   a = Node("1",None,b,c)
   b = Node ("2",a,d,e)
