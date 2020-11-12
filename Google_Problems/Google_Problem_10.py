@@ -22,9 +22,9 @@ class SinglyLinkedList:
   def insert(self , val):
     self.size += 1
     newNode = Node(val)
-    if(self.head):
+    if self.head:
       current = self.head
-      while(current.next):
+      while current.next:
         current = current.next
       current.next = newNode
       
@@ -35,7 +35,7 @@ class SinglyLinkedList:
   def remove_k_last_element(self,k):
     listSize = self.size
     current = self.head
-    while(current.next):
+    while current.next:
       listSize -= 1 
       if listSize == k:
         current.next = current.next.next
