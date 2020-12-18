@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """
 This problem was asked by Jane Street.
 
