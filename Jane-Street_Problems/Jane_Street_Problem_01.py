@@ -1,4 +1,3 @@
-
 """
 This problem was asked by Jane Street.
 
