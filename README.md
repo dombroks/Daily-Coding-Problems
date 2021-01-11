@@ -1,6 +1,6 @@
 # Daily Coding Problems
 
-Hi there, this repository contains serie of problems and their solutions from  biggest tech companies like Google, Facebook, Apple and twitter...etc
+I solve a problem everyday and I push it to this repository.
 
 
 
